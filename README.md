@@ -21,8 +21,11 @@ b.Decison trees for classification analysis with several models
 # Model Methods
 
 SVM
+
 Random forests
+
 Ada boosted trees
+
 Gradient boosted trees
 
 # Author
